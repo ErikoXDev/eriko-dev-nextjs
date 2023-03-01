@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Express Uptimer",
+    "description": "Uptimer you can host yourself to keep your websites online!",
+    "link": "https://github.com/ErikoXDev/express-uptimer",
+    "tools": "Node.js, Express",
+    "released": true,
+    "featured": true
+  },
+  {
+    "name": "Golf Course",
+    "description": "Play minigolf in this pixel art browser game.",
+    "link": "https://Golf-Course.erikoxdev.repl.co",
+    "tools": "Node.js, Kaboom.js",
+    "released": true,
+    "featured": false
+  },
+  {
+    "name": "Atom One Dark for Replit.com",
+    "description": "The popular Visual Studio Code theme ported to Replit.com",
+    "link": "https://replit.com/theme/@ErikoXDev/atom-one-dark",
+    "tools": "Replit Theme Editor",
+    "released": true,
+    "featured": true
+  },
+  {
+    "name": "Advanced Theme Editor",
+    "description": "Ultimate Editor for Replit themes. Change the JSON of a theme directly and save it using the Replit API.",
+    "link": "https://Advanced-Theme-Editor.erikoxdev.repl.co",
+    "tools": "Node.js, Next.js",
+    "released": true,
+    "featured": true
+  },
+  {
+    "name": "Replit Profile Viewer",
+    "description": "Alternative profile page for Replit users. Get repls, roles and languages from users using Replit's GraphQL API.",
+    "link": "https://Replit-Profile-Viewer.erikoxdev.repl.co",
+    "tools": "Node.js, Express",
+    "released": true,
+    "featured": true
+  },
+  {
+    "name": "Yoghart",
+    "description": "Yoghart is a team that makes generative art. We use p5.js to generate random images.",
+    "link": "https://yoghart.repl.co",
+    "tools": "Node.js, Next.js",
+    "released": true,
+    "featured": false
+  },
+  {
+    "name": "Mark's Food Place",
+    "description": "Run a restaurant in this game made with Kaboom.js. Winner of MarkJam 5.",
+    "link": "https://erikoxdev.itch.io/marks-food-place",
+    "tools": "Node.js, Kaboom.js",
+    "released": true,
+    "featured": false
+  },
+  {
+    "name": "Windows HTML (OLD)",
+    "description": "Old windows \"parody\" of Windows 10. Create files with Notepad and save them on your desktop.",
+    "link": "https://Windows-HTML-OLD.erikoxdev.repl.co",
+    "tools": "PHP",
+    "released": true,
+    "featured": false
+  }
+]
